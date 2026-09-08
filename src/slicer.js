@@ -15,4 +15,4 @@ export const slicer = createSlice({
 
 export const { increment, decrement } = slicer.actions;
 
-export default slicer.reducer
+export default slicer.reducer;
